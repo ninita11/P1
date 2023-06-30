@@ -1,5 +1,6 @@
 Why did the developer go broke?
 Because he couldn't optimize his cache flow!
+Because he kept flushing his cache!
 
 Why do Java developers wear glasses?
 Because they don't C#!
