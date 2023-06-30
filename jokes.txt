@@ -1,2 +1,8 @@
 Why did the developer go broke?
 Because he used up all his cache!
+
+Why do Java developers wear glasses?
+Because they don't C#!
+
+How do functions break up?
+They stop calling each other!
